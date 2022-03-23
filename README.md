@@ -83,10 +83,9 @@ $ npm install
 ### Notice
 
 ---
-1. It is recommended to use npmpkgx under power shell
-2. Currently only modules imported by `require()` are supported, in order to possibly support import
-3. The addition method is append, existing packages will not be added, nodejs native modules will not be added, and custom modules will not be added
-4. Options line arguments do not support `=`
+1. Currently only modules imported by `require()` are supported, and import may be supported in the future  
+2. The addition method is append, existing packages will not be added, nodejs native modules will not be added, and custom modules will not be added
+3. Options line arguments do not support `=`
 
 ### Copyright
 
