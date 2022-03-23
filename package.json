@@ -1,0 +1,29 @@
+{
+   "author": "Mr.lin",
+   "bin": "./main.js",
+   "description": "Automatically add project dependencies to npm's package.json",
+   "files": [
+      "cmd"
+   ],
+   "keywords": [
+      "pkg",
+      "pkgx",
+      "global",
+      "dependencies",
+      "package",
+      "package.json",
+      "npm",
+      "install"
+   ],
+   "license": "MIT",
+   "main": "./main.js",
+   "name": "npmpkgx",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/bitjerry/npmpkgx.git"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "version": "1.0.1"
+}
